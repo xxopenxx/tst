@@ -1,0 +1,1941 @@
+{
+    "object": "list",
+    "tools": {
+        "message": "Tools are a way to better interact with models, if you have a specific idea, mention it to us @ https://discord.shard-ai.xyz/!",
+        "websearch": {
+            "usage": "Add -online to any model name and get responses that are up to date.",
+            "note": "Free for a limited amount of time! (maybe free?)",
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        }
+    },
+    "data": [
+        {
+            "id": "gpt-3.5-turbo",
+            "object": "model",
+            "created": 1677610602,
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 4096,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gpt-4",
+            "object": "model",
+            "created": 1678499200,
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 8192,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gpt-4o",
+            "object": "model",
+            "created": null, 
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens": 128000, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gpt-4o-mini",
+            "object": "model",
+            "created": null, 
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens": 128000, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "o1-mini",
+            "object": "model",
+            "created": null, 
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 10,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "o1-preview",
+            "object": "model",
+            "created": null, 
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 15,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "o3-mini",
+            "object": "model",
+            "created": null, 
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 10,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "o3-mini-low",
+            "object": "model",
+            "created": null, 
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 10,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "o3-mini-medium",
+            "object": "model",
+            "created": null, 
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 15,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "o3-mini-high",
+            "object": "model",
+            "created": null, 
+            "owned_by": "OpenAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 20,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "f1-preview",
+            "object": "model",
+            "created": null, 
+            "owned_by": "fireworks.ai",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "f1-mini-preview",
+            "object": "model",
+            "created": null, 
+            "owned_by": "fireworks.ai",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "sonar",
+            "object": "model",
+            "created": null, 
+            "owned_by": "PPLX",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 2,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "sonar-pro",
+            "object": "model",
+            "created": null, 
+            "owned_by": "PPLX",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "deepseek-r1",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Deepseek AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "shuttle-3-mini",
+            "object": "model",
+            "created": null, 
+            "owned_by": "ShuttleAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 2,
+            "max_tokens": 128000, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "shuttle-3",
+            "object": "model",
+            "created": null, 
+            "owned_by": "ShuttleAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "shuttle-s1-mini",
+            "object": "model",
+            "created": null, 
+            "owned_by": "ShuttleAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens": 128000, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "shuttle-s1",
+            "object": "model",
+            "created": null, 
+            "owned_by": "ShuttleAI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 6,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "command-r",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Cohere",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 2048,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "command-r-plus",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Cohere",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 2048,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "command-light-nightly",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Cohere",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 2048,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "command",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Cohere",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 2048,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "command-light",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Cohere",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 2048,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "c4ai-aya",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Cohere",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 2048,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "grok-2",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Daddy Elon Musk",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "grok-2-mini",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Daddy Elon Musk",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "claude-3-haiku",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Anthropic",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "claude-3-sonnet",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Anthropic",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "claude-3-opus",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Anthropic",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 5,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "claude-3.5-sonnet",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Anthropic",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 5,
+            "max_tokens": 128000, 
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "dbrx-instruct",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Databricks",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32000, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-exp-1114",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-exp-1121",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 8,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-exp-1206",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 10,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "learnlm-1.5-pro-experimental",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 10,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": false,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-pro",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-pro-latest",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 2,
+            "max_tokens": 32768, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-pro-vision",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 32768, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.0-pro",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.0-pro-latest",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.0-pro-vision-latest",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.5-pro",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.5-pro-latest",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.5-flash",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.5-flash-latest",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.5-flash-8b",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-1.5-flash-8b-latest",
+            "object": "model",
+            "created": 1707116800, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-2.0-flash",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 6,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemini-2.0-flash-thinking-exp-1219",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 8,
+            "max_tokens":  1048576,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "qwen-2.5-72b",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Qwen",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "qwen-2.5-coder-32b",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Qwen",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "qwq-32b-preview",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Qwen",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "qwen-2-vl-7b",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Qwen",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mixtral-8x7b",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mixtral-8x22b",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 64000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mistral-nemo",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "open-mistral-nemo",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mistral-small",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mistral-medium",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mistral-large-latest",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mistral-large-2402",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mistral-large-2407",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "open-codestral-mamba",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 256000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "codestral-2405",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "codestral-2501",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "pixtral-large-latest",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "pixtral-12b-2409",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "pixtral-12b",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "ministral-8b-latest",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "ministral-3b-latest",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mixtral-8x22b-instruct",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 8192,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "open-mixtral-8x22b",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 64000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+
+        {
+            "id": "mistral-tiny",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mistral-7b-instruct",
+            "object": "model",
+            "created": 1681190400, 
+            "owned_by": "Mistral AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 4096,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "nemotron-4-340b",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Nvidia",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "yi-large",
+            "object": "model",
+            "created": null, 
+            "owned_by": "01.AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "vicuna-13b",
+            "object": "model",
+            "created": null, 
+            "owned_by": "LMSYS",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 2048,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemma-2b",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemma-7b",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemma-2-9b",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "gemma-1.1-7b",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Google",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3-70b",
+            "object": "model",
+            "created": null,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 2,
+            "max_tokens": 8192,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3-8b",
+            "object": "model",
+            "created": null,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 8192,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-guard-3",
+            "object": "model",
+            "created": null,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 8192,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.1-8b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.1-70b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.1-405b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 4,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.2-1b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.2-3b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.2-11b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 2,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.2-90b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.3-70b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Meta AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.1-sonar-huge-128k",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "PPLX",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.1-sonar-large-128k",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "PPLX",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "llama-3.1-sonar-small-128k",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "PPLX",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "hermes-3-llama-3.1-70b",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Nous Research",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 2,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "reka-flash",
+            "object": "model",
+            "created": 1712649600,
+            "owned_by": "Reka",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 3,
+            "max_tokens": 128000,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "phind-codellama-34b",
+            "object": "model",
+            "created": null,
+            "owned_by": "Phind",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "cinematika-7b",
+            "object": "model",
+            "created": null,
+            "owned_by": "Unknown",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "toppy-7b",
+            "object": "model",
+            "created": null,
+            "owned_by": "Unknown",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "deepseek-v2.5",
+            "object": "model",
+            "created": null,
+            "owned_by": "Deepseek AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "openchat-7b",
+            "object": "model",
+            "created": null,
+            "owned_by": "OpenChat",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "lfm-40b",
+            "object": "model",
+            "created": null,
+            "owned_by": "Liquid AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "lfm-3b",
+            "object": "model",
+            "created": null,
+            "owned_by": "Liquid AI",
+            "type": "chat.completions",
+            "endpoint": "/v1/chat/completions",
+            "cost": 1,
+            "max_tokens": 32768,
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "shuttle-jaguar",
+            "object": "model",
+            "created": 1697577600,
+            "owned_by": "ShuttleAI",
+            "type": "images.generations",
+            "endpoint": "/v1/images/generations",
+            "cost": 10,
+            "max_tokens": null, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "shuttle-3-diffusion",
+            "object": "model",
+            "created": 1697577600,
+            "owned_by": "ShuttleAI",
+            "type": "images.generations",
+            "endpoint": "/v1/images/generations",
+            "cost": 10,
+            "max_tokens": null, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "flux-1.1-pro-ultra-raw",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Black Forest Labs",
+            "type": "images.generations",
+            "endpoint": "/v1/images/generations",
+            "cost": 15,
+            "max_tokens": null, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "flux-1.1-pro-ultra",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Black Forest Labs",
+            "type": "images.generations",
+            "endpoint": "/v1/images/generations",
+            "cost": 13,
+            "max_tokens": null, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "flux-1.1-pro",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Black Forest Labs",
+            "type": "images.generations",
+            "endpoint": "/v1/images/generations",
+            "cost": 12,
+            "max_tokens": null, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "flux-pro",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Black Forest Labs",
+            "type": "images.generations",
+            "endpoint": "/v1/images/generations",
+            "cost": 10,
+            "max_tokens": null, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "flux-schnell",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Black Forest Labs",
+            "type": "images.generations",
+            "endpoint": "/v1/images/generations",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "flux-dev",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Black Forest Labs",
+            "type": "images.generations",
+            "endpoint": "/v1/images/generations",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": false,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "elevenlabs",
+            "object": "model",
+            "created": null, 
+            "owned_by": "ElevenLabs",
+            "type": "audio.speech",
+            "endpoint": "/v1/audio/speech",
+            "voices": "https://api.shard-ai.xyz/v1/voices/elevenlabs",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "elevenlabs-sfx",
+            "info": "Create sound effects with any prompt!",
+            "object": "model",
+            "created": null, 
+            "owned_by": "ElevenLabs",
+            "type": "audio.speech",
+            "endpoint": "/v1/audio/speech",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "speechify",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Speechify",
+            "type": "audio.speech",
+            "endpoint": "/v1/audio/speech",
+            "voices": "https://api.shard-ai.xyz/v1/voices/speechify",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "mistral-embed",
+            "object": "model",
+            "created": null, 
+            "owned_by": "Mistral AI",
+            "type": "embeddings",
+            "endpoint": "/v1/embeddings",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "whisper-tiny",
+            "object": "model",
+            "created": 1664108800,
+            "owned_by": "OpenAI",
+            "type": "audio.transcriptions",
+            "endpoint": "/v1/audio/transcriptions",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "whisper-small",
+            "object": "model",
+            "created": 1664108800,
+            "owned_by": "OpenAI",
+            "type": "audio.transcriptions",
+            "endpoint": "/v1/audio/transcriptions",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "whisper-medium",
+            "object": "model",
+            "created": 1664108800,
+            "owned_by": "OpenAI",
+            "type": "audio.transcriptions",
+            "endpoint": "/v1/audio/transcriptions",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "whisper-base",
+            "object": "model",
+            "created": 1664108800,
+            "owned_by": "OpenAI",
+            "type": "audio.transcriptions",
+            "endpoint": "/v1/audio/transcriptions",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "whisper-tiny.en",
+            "object": "model",
+            "created": 1664108800,
+            "owned_by": "OpenAI",
+            "type": "audio.transcriptions",
+            "endpoint": "/v1/audio/transcriptions",
+            "cost": 1,
+            "max_tokens": null, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "omni-moderation-latest",
+            "object": "model",
+            "created": 69420,
+            "owned_by": "OpenAI",
+            "type": "moderations",
+            "endpoint": "/v1/moderations",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "omni-moderation-2024-09-26",
+            "object": "model",
+            "created": 69420,
+            "owned_by": "OpenAI",
+            "type": "moderations",
+            "endpoint": "/v1/moderations",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "text-moderation-latest",
+            "object": "model",
+            "created": 69420,
+            "owned_by": "OpenAI",
+            "type": "moderations",
+            "endpoint": "/v1/moderations",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "text-moderation-stable",
+            "object": "model",
+            "created": 69420,
+            "owned_by": "OpenAI",
+            "type": "moderations",
+            "endpoint": "/v1/moderations",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "text-moderation-007",
+            "object": "model",
+            "created": 69420,
+            "owned_by": "OpenAI",
+            "type": "moderations",
+            "endpoint": "/v1/moderations",
+            "cost": 1,
+            "max_tokens": 32768, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        },
+        {
+            "id": "shard-moderation-latest",
+            "object": "model",
+            "created": 69420,
+            "owned_by": "ShardAI",
+            "type": "moderations",
+            "endpoint": "/v1/moderations",
+            "cost": 1,
+            "max_tokens": 8192, 
+            "access": {
+                "free": true,
+                "basic": true,
+                "premium": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+google:
+  - AIzaSyAwxEuIwKVaPYH8TKiB6Ppfq75y5moY0Co
+  - AIzaSyBzfDzLxSh9jqbx2oIns8a5CkZBzn6hg8s
+  - AIzaSyCqQuZiRGWktiJjqixOTtQoWTWRZV_o8cc
+
+groq:
+  - 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
+  - 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
+  - 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
+  - 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
+  - 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
+  - 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
+  - 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
+  - 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
+
+reddit:
+  client_id: "-yaiHlzYhYwDJHJ2APGZ7w"
+  client_secret: "xT0aChrgfZhX5B-CyGta_AzYq6uhhQ"
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  username: "voiceshoreoccur"
+  password: "i4uZ*$v5VbHm"
+
+SBR_WS_CDP: "wss://brd-customer-hl_acd45d00-zone-shard:sc2yx9jcc83q@brd.superproxy.io:9222"

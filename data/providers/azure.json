@@ -1,0 +1,2994 @@
+[
+    {
+        "url": "https://jailbreaker.openai.azure.com",
+        "key": "3abf01e78cce428f9cee24af6d36f863",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini-2"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://ik-oai-eastus-2.openai.azure.com",
+        "key": "b3e819600fbe4981be34ef2aa79943e2",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://guoxh4o.openai.azure.com",
+        "key": "94a744516fcc43ac90948e4d3927e6e0",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://tzydemo1219.openai.azure.com",
+        "key": "732a9a231689443eb067de5d345550fa",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "GPT-40"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "GPT-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "GPT-35-TURBO"
+            }
+        ]
+    },
+    {
+        "url": "https://gtp-ner-api.openai.azure.com",
+        "key": "18e14815c4a04777aa7da8827858dd20",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://supervisor-ai-eu.openai.azure.com",
+        "key": "2afd7363847246cf86c236470502e948",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://myshell0.openai.azure.com",
+        "key": "0396650923ad40b880bf2a3ce3b80b9b",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-0613"
+            }
+        ]
+    },
+    {
+        "url": "https://euopenaiswedencentral.openai.azure.com",
+        "key": "dabd601cea6049fb9c81edd487e5074d",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://bg.openai.azure.com",
+        "key": "ed610003b55340b3a1d243008ef2c437",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "GPT35_test"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "GPT-35-0301"
+            }
+        ]
+    },
+    {
+        "url": "https://genai-openai-new-usecase-1.openai.azure.com",
+        "key": "06baf2b0eee94c7fb9402ba4648689a2",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://azureadople.openai.azure.com",
+        "key": "d40171e5187047b3928b8f3f63900e4a",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "GPT-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://dalle3-swo.openai.azure.com",
+        "key": "e51119f8d8774069a6594d92ccf7a70d",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt4-vision"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://multi-modal.openai.azure.com",
+        "key": "ec4cf14b105f4d06a987c2428908a008",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt4"
+            }
+        ]
+    },
+    {
+        "url": "https://bttaidoc2.openai.azure.com",
+        "key": "b32e2759a73047b59f2298b902a030c7",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://cychatopenai.openai.azure.com",
+        "key": "939524fdbb8d468da705e6c51bbd4894",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt_35_turbo_16k"
+            }
+        ]
+    },
+    {
+        "url": "https://ai-sampler.openai.azure.com",
+        "key": "e27045c6c5f4408db31d464f9d98e843",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://njcswedencentral.openai.azure.com",
+        "key": "42ef311b5f274981be65da45d46bac65",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "njc-assistant-gpt4-32k"
+            }
+        ]
+    },
+    {
+        "url": "https://chinasnrunlimited.openai.azure.com",
+        "key": "87eb5a0211fa455194900b26c01d3a21",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini-graphrag"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt-4v-mcy"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k-test"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4-test"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-gpt-4-test-v-1.openai.azure.com",
+        "key": "23c217a5b59f41b6b7a198017f4792f2",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini-2"
+            }
+        ]
+    },
+    {
+        "url": "https://gpt4-australia-region.openai.azure.com",
+        "key": "05f217cda07f440b980511b5b5fa3d55",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "sol-gpt4-32k-token20k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "sol-gpt4-Australia"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "sol-Australia-gpt35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://ussc-coo-gpt-prd-oai1.openai.azure.com",
+        "key": "7f07d1322e56418e899979908f609db8",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35"
+            }
+        ]
+    },
+    {
+        "url": "https://softtech-openai-kosvtk-gmy.openai.azure.com",
+        "key": "bec861eff9934fe29cca28016a91b736",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4-2"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://kevin.openai.azure.com",
+        "key": "229543f119af4a118b5b8297059457ea",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://cog-kguqugfu5p2ki.openai.azure.com",
+        "key": "4657af893faf48e5bd81208d9f87f271",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://ai-research-team.openai.azure.com",
+        "key": "23a9b885bbe04c0187ee63bcf7e04e9c",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://bsmp2023.openai.azure.com",
+        "key": "7b7711c1bcd94b4899aaa1d796c4f7ae",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://cogopenaiscgjwdllmchat1.openai.azure.com",
+        "key": "dc1475322fbf4c07a1469f57242f14b5",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt4-turbo"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt4-vision"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://allen.openai.azure.com",
+        "key": "954e720ce4b74c948352648233cdc79f",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://ocr-chatbot-mccalla.openai.azure.com",
+        "key": "8dd26d2d746041fe90a8892f68806c3d",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-3"
+            }
+        ]
+    },
+    {
+        "url": "https://disprz-originals.openai.azure.com",
+        "key": "1dfeeaf8f4e945e5a461f82fd08169b3",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "GPT4o"
+            }
+        ]
+    },
+    {
+        "url": "https://aoai-us-east-2024.openai.azure.com",
+        "key": "0e1ddb0b44b74547873d2d58185a97f0",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt4omini"
+            }
+        ]
+    },
+    {
+        "url": "https://icn-azure-openai-0.openai.azure.com",
+        "key": "0a1040f6597a41f2a3df18bad466b82d",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://aoai-swedn.openai.azure.com",
+        "key": "eb599976c0e943ea9e742f12659cd4d0",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt-4v"
+            }
+        ]
+    },
+    {
+        "url": "https://neurochaintraining.openai.azure.com",
+        "key": "2f1dfab011114bbfa66576dd4ca16f7b",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://casggpt-4.openai.azure.com",
+        "key": "62f99aff986e40a1918058887856b41d",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4-omni"
+            },
+            {
+                "name": "gpt-4",
+                "id": "GPT4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://barutaidemo.openai.azure.com",
+        "key": "c5c31b1c1aaa4919ba701fbcec03f2f8",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://azureopenaieusjamg.openai.azure.com",
+        "key": "6129cde9669f42e9a255c1e5ba203628",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt4"
+            }
+        ]
+    },
+    {
+        "url": "https://azureopenaicentralsweden.openai.azure.com",
+        "key": "2e147284963d4f938a11c5fbf7afb825",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt_4_vision_preview"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt_35_turbo_16k"
+            }
+        ]
+    },
+    {
+        "url": "https://azure-open-ai-sweden-bk.openai.azure.com",
+        "key": "ff6d756998ea471db1192263d18b47ca",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://dev-fph-sweden-central.openai.azure.com",
+        "key": "798622c1506b4e1899a96adc402d1bb7",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://dattaraj-openai-demo.openai.azure.com",
+        "key": "56dc6d2fdf8c48debea0493b8db17bfa",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4-8k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://gpt-cdp-01.openai.azure.com",
+        "key": "ace2c45f24ae4046a40afa139c6fd1cb",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "GPT4o-CDP"
+            },
+            {
+                "name": "gpt-4",
+                "id": "GPT4-CDP"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "GPT35-16K-CDP"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "GPT35-CDP"
+            }
+        ]
+    },
+    {
+        "url": "https://gpt35-instruct-demo.openai.azure.com",
+        "key": "c50c3dd34a8c4fb8ba9bbc34d67ba9c1",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini-2"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k-development"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://gpt4--0125.openai.azure.com",
+        "key": "f28640f4bbd34db0a76fe0a3d27da5c7",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://llm.openai.azure.com",
+        "key": "5d93a0feea2a46ddac086d7d4d37d6ea",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o-test"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://gpt-llm-4.openai.azure.com",
+        "key": "73c315ba0bc44e6abffd10b189dc3199",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://mobility-sage-openai-services.openai.azure.com",
+        "key": "9bbf92a17be24c66881eaa5a1c6aa77d",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt-4-vision"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://ccsh.openai.azure.com",
+        "key": "07e0bd4794824daf8fe45508d132ab99",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://thinkmastereast.openai.azure.com",
+        "key": "81da65068350462baabffa952bf68e7c",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://kuljothybridopenai.openai.azure.com",
+        "key": "1f5269099d8f49179b74e2ab865b9758",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt4-turbo"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt4-vision"
+            }
+        ]
+    },
+    {
+        "url": "https://myexperts.openai.azure.com",
+        "key": "68dc0f438fbd464bb8068040c93d659e",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://tp-tprompt1.openai.azure.com",
+        "key": "e26fd76c0671416dbdc20f1e09110b88",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "tprompt-gpt35turbo"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "completions35turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://nef6101a.openai.azure.com",
+        "key": "54ba524df88444caa7b5251bec720b25",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-0613"
+            }
+        ]
+    },
+    {
+        "url": "https://k4m2aai.openai.azure.com",
+        "key": "6337e7d4335f4180af5f6ae968f89602",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://aoaitest45.openai.azure.com",
+        "key": "7e48f2135baf44f2aa05ae7694c21f26",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://notdiamond-azure-openai.openai.azure.com",
+        "key": "768db448e03a4c31986961b5cfebb9c1",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://azureopenai16.openai.azure.com",
+        "key": "75db73a3b9da40b0b6e0e98273a6029f",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35turbo16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://wolffentpopenai.openai.azure.com",
+        "key": "927843b5b7a74f3cbd320c13e166b2c0",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "wolffopenai4o"
+            }
+        ]
+    },
+    {
+        "url": "https://alvaro-medal.openai.azure.com",
+        "key": "12c1944c056f4e358b02d8de129474d7",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://finkdataopenai.openai.azure.com",
+        "key": "d57b4f240c6f4c12bb8d316469e45f69",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://alfalavahub28182992243.openai.azure.com",
+        "key": "80f0255c0bfa4bd28e32db4582e1c4b1",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-2"
+            }
+        ]
+    },
+    {
+        "url": "https://gpt-4-main.openai.azure.com",
+        "key": "d006a38de36a4421bb75c0ccf44ca5ec",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-pragateesh.openai.azure.com",
+        "key": "6060de1a99394ebda50e0ecb1258883b",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://chatgpt4vision.openai.azure.com",
+        "key": "1f0880c2f35c418b9b50489e485093a4",
+        "models": [
+            {
+                "name": "gpt-4-vision",
+                "id": "GPT-4-Vision"
+            }
+        ]
+    },
+    {
+        "url": "https://nw-tech-wu.openai.azure.com",
+        "key": "fce9b34907b848a6902e5c37ddfc8512",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://aoai-rag.openai.azure.com",
+        "key": "9b4e131d7074437eb977a79c9f31d1ad",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-us-cs-1.openai.azure.com",
+        "key": "d99700b22acb4b6ea683b7cf4f8c4145",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-0301"
+            }
+        ]
+    },
+    {
+        "url": "https://relation.openai.azure.com",
+        "key": "c351c2a6e3864ee6b8c799363f63e40f",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35"
+            }
+        ]
+    },
+    {
+        "url": "https://animal.openai.azure.com",
+        "key": "824b7adb773a47cca2e102c7b9d5c892",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            }
+        ]
+    },
+    {
+        "url": "https://azure-openai-instance-france-central.openai.azure.com",
+        "key": "12122e3474ae470ba8cf16af7ed4ee93",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://xascasvascw2.openai.azure.com",
+        "key": "faddf2dd6b984a7e9642f63f7acd1cb3",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35"
+            }
+        ]
+    },
+    {
+        "url": "https://sapiens-openai.openai.azure.com",
+        "key": "d32f09fb8518488ca5216bbea611cdb2",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://aais-cay-jax-p02.openai.azure.com",
+        "key": "cb9b2e2451eb4a639730e6e8ea111e68",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://amirtest.openai.azure.com",
+        "key": "5a245cbd34374444a17808a1160b32d3",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35"
+            }
+        ]
+    },
+    {
+        "url": "https://mywestusregion.openai.azure.com",
+        "key": "f13de0a9e7e14570958e7fece7338171",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://az-preview-eu-openai-poc-can3.openai.azure.com",
+        "key": "38cc1ea0270e44faa33c0e85ade1e36a",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://esp-services-dataoffering-openai-uksouth.openai.azure.com",
+        "key": "bd17a73f46a348b1b73a1d97c4eab3bb",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://swcdoai2x2aoa01.openai.azure.com",
+        "key": "cb4b1a0311454198ad4c9c42e9c4e5d7",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://trhh.openai.azure.com",
+        "key": "269ae195f4454c52bfbe7a187f36c40a",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://byocdemo-openai.openai.azure.com",
+        "key": "55ce75a03aa0488297f3019ab60593dd",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://genaiprojects.openai.azure.com",
+        "key": "0d7916dfc3b24a0489bdf3d72118b6c6",
+        "models": [
+            {
+                "name": "whisper",
+                "id": "whisper1"
+            }
+        ]
+    },
+    {
+        "url": "https://tcs-retail-futurify.openai.azure.com",
+        "key": "26b9b38908e14bd0b87bfb7aac6ad032",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://ies-openai-playground-uk.openai.azure.com",
+        "key": "f90d0583d2c8407f96d6ef299590fb74",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://theateamexperi0065834588.openai.azure.com",
+        "key": "23ebf1a52c7849878b3f2c01fbb733b6",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://api-code-gen.openai.azure.com",
+        "key": "d3c367c33e3f44338f91b767283cc15b",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-Code-Generator"
+            }
+        ]
+    },
+    {
+        "url": "https://wia.openai.azure.com",
+        "key": "3a228f3c864147999f24e8c63886263a",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://retaildemo.openai.azure.com",
+        "key": "11f5a6948a274f258d7a4a1850e176a5",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-demo"
+            }
+        ]
+    },
+    {
+        "url": "https://vm101a.openai.azure.com",
+        "key": "66397f887f1b40c1b1b15faf4779ebd9",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-2"
+            }
+        ]
+    },
+    {
+        "url": "https://copilot-chatbot.openai.azure.com",
+        "key": "ec3ea9ddf28c4c259934fb7c9e6ffd9d",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://ai-copilotlabs8085049134634.openai.azure.com",
+        "key": "e8201fcbec7643b2b08966d20e2e3487",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt-4-vision"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://azureopenai24demo.openai.azure.com",
+        "key": "7c15f7bb4139435bbefa4b8e155a1622",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-40"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://curious-us.openai.azure.com",
+        "key": "7ee83affee814750af3372106d0c5a12",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://trashscan-clearpath.openai.azure.com",
+        "key": "e8f95987636245f3a15398fa040e2972",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://learnloop-ia.openai.azure.com",
+        "key": "aae907ff880347cd91e529c8f1669dcf",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://wdc-chat-llm.openai.azure.com",
+        "key": "ce53c5fce80c4503927244333e40634c",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://anildwaopenaiwestus.openai.azure.com",
+        "key": "3661ab7c5e4d49669cbe4d1d96ce6c3a",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-global"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt-4-vision"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://baaiks.openai.azure.com",
+        "key": "488afb0795c94e5fad8b4df8dab246e2",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://apadua-openai.openai.azure.com",
+        "key": "383d7b5cc97745a3bfafbcb6cc4da9a8",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35"
+            }
+        ]
+    },
+    {
+        "url": "https://ai-rum-swe-a909a5-2.openai.azure.com",
+        "key": "fb4f676e065c4e238870e2adc0cd5956",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://hybridatelierourcs.openai.azure.com",
+        "key": "cbb1930b22c44815aa3af29f5ed53c22",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://agribazaar.openai.azure.com",
+        "key": "94c9226d60eb4132b443df26a6072ac9",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://usw1d-openai01.openai.azure.com",
+        "key": "992ce21baef84c68a10972ffa78c4eeb",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "GPT4"
+            }
+        ]
+    },
+    {
+        "url": "https://hpkbdemo6081598253.openai.azure.com",
+        "key": "3e1720f2f83040e4afab1f0948ecad54",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://mychatbot.openai.azure.com",
+        "key": "c068c560e2774b0a9318651e846455d6",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://openaidigitpop.openai.azure.com",
+        "key": "c7e6b8e4de0c42eb9d2c5b240e7ed1bc",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://prompt-eng-models.openai.azure.com",
+        "key": "2e2e0d661123417ca3cdb803132178ae",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://lioropenaitest.openai.azure.com",
+        "key": "dc7032d007034a0c99db583e0726d41a",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35"
+            }
+        ]
+    },
+    {
+        "url": "https://sibsm24.openai.azure.com",
+        "key": "5b44e38776be45d991a247f158ebb9ca",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://aygunsun02.openai.azure.com",
+        "key": "d782114c41454d01a5d309b246e51855",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://ai-lab-openai.openai.azure.com",
+        "key": "45769099f37a4c02b7b3f79484acf347",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-test"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://tensurfbrain.openai.azure.com",
+        "key": "4a342430ad17498da149a9b77bf4c51f",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt_4_32k"
+            }
+        ]
+    },
+    {
+        "url": "https://skille-north.openai.azure.com",
+        "key": "75ccb32e76c64317b5f0eeae888cc373",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://openaiedtlab.openai.azure.com",
+        "key": "fd789af60ce74928bbe81b49dab6eff8",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://opusgptus2.openai.azure.com",
+        "key": "c23514f5b6f64bfd84046ab0fad95da0",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt4-test"
+            }
+        ]
+    },
+    {
+        "url": "https://codestory-gpt4.openai.azure.com",
+        "key": "89ca8a49a33344c9b794b3dabcbbc5d0",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt4-32k-access"
+            }
+        ]
+    },
+    {
+        "url": "https://sandbox-ai-swedencentral.openai.azure.com",
+        "key": "f484cfe7823a4de9860e9badb016e28e",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://aoai-test-switzerland-north.openai.azure.com",
+        "key": "ffe721bd53b246619ed86c811413cf7c",
+        "models": [
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt-4-vision-preview"
+            }
+        ]
+    },
+    {
+        "url": "https://bionlp-gpt4.openai.azure.com",
+        "key": "48f46b68e4e14c3c8a9be9522dbdc6e7",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://azureoaieastus.openai.azure.com",
+        "key": "00b13c63c4ed4a13a105e6e9abb34551",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://azure-chatbot-openai.openai.azure.com",
+        "key": "fb9d9eaaf03c46629022499658423536",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-levelup.openai.azure.com",
+        "key": "c6da773c07bc45de992ecd85c60f4162",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://itp-azopenai-ne.openai.azure.com",
+        "key": "d5c1ae66fe5a41fd82f61e0b9fe88470",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://libratech-openai-test-003.openai.azure.com",
+        "key": "2ed2b83237e14601814ac1ae6cecce4f",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-2"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini-2"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "libratech-gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://borb.openai.azure.com",
+        "key": "b73c3aa1ede248e7ae5f86f0f50214ae",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-translation.openai.azure.com",
+        "key": "d5069013ce5942f4b8f7500a96f91793",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://aoaiziorgeus.openai.azure.com",
+        "key": "87f942a7e0ae4f849314eea2ea5527b2",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://swahilipot-azure-openai.openai.azure.com",
+        "key": "6f4266921e2d481596516f157769c8c6",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://sanwei-test-instance.openai.azure.com",
+        "key": "fb5221d02a1f452993fdda7cd1576cbc",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://koreopenai.openai.azure.com",
+        "key": "d0f6560007a9435d9111cc497c7d5c11",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "GPT_4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "GPT-4o-mini"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "Koreai-GPT35-Turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://soumenopenai.openai.azure.com",
+        "key": "9834a230b1234782838e45cd6aad4d9f",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://bonial-openai-test-004.openai.azure.com",
+        "key": "3d337d2d785d4840b9ae45ebfc4faee5",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "bonial-gpt-4-32k-0613"
+            }
+        ]
+    },
+    {
+        "url": "https://yalezhan.openai.azure.com",
+        "key": "bbcbbca47cd34223a0e68dcc752a8494",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://gen-ai-training-internal-july.openai.azure.com",
+        "key": "23ba1b747e164a38b3e537573b49cf60",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "GPT35"
+            }
+        ]
+    },
+    {
+        "url": "https://fuchsopenai.openai.azure.com",
+        "key": "377635a0dfdd4f01a1352ea785ea4537",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-2"
+            }
+        ]
+    },
+    {
+        "url": "https://it-enterprise-strategy-smartops-openai.openai.azure.com",
+        "key": "29b421a2d00e41498eeac68894d1f849",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://adcloud-openai-swiz.openai.azure.com",
+        "key": "b56a820ba3384b4ea0565fc8d1dd9276",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "adcloudgpt35turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://dierckx.openai.azure.com",
+        "key": "c785292059e7435c97beaf01aa6261c5",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://ics-rd-openai.openai.azure.com",
+        "key": "fb2a1f252f6547fcad7432ecd52cb56d",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "GPT4-32K"
+            }
+        ]
+    },
+    {
+        "url": "https://mckessonfiscal-aoai-australiaeast.openai.azure.com",
+        "key": "1d6fcfafa41a4f8a84913518f6aa59ba",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "GPT4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "GPT-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://cychatjapaneast.openai.azure.com",
+        "key": "927e5de5e5204e0cb0ba834e663a5376",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            }
+        ]
+    },
+    {
+        "url": "https://soumenopenai.openai.azure.com",
+        "key": "3a5a6eba4d2546558d3fa749ef9fb5ce",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://supervisor-ai.openai.azure.com",
+        "key": "eee842323c1e4556b1a7f0ddef120c5a",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://oliverz11ai.openai.azure.com",
+        "key": "1140131bf4f94e75b3927e82589058af",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://beena-azure-oai.openai.azure.com",
+        "key": "9de2e486660e460aaac8824ed83cc379",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-vanilla"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://helloai666.openai.azure.com",
+        "key": "5a220db4902642e1b9c7d0f88e908e48",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-2"
+            }
+        ]
+    },
+    {
+        "url": "https://geaux-openai.openai.azure.com",
+        "key": "03cfbaafba5c421392e8473223bc73d9",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://llm-sermo-nu10.openai.azure.com",
+        "key": "82d7d9dfc84f443d8b2af93e957624bf",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-tourism.openai.azure.com",
+        "key": "ac0eb75113cb4cf3843bce89ee94f2d6",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://gbb-dev-ai-openai-westus3.openai.azure.com",
+        "key": "e7a6ae66a1c04a8295323222248854a4",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-2"
+            }
+        ]
+    },
+    {
+        "url": "https://hild-openai-us2.openai.azure.com",
+        "key": "b9888e3daaa84c8c987e92d1c5ab83d5",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35t"
+            }
+        ]
+    },
+    {
+        "url": "https://lxout5939075444.openai.azure.com",
+        "key": "518b1ff603324be6a9554a9debcca6f6",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://aiavatarrr.openai.azure.com",
+        "key": "eab8ec7abcf34093b984a16732ec93d4",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://brewdatgbgaighqtechopenai01ncud.openai.azure.com",
+        "key": "64a128e1a82f40888c77f200c6e5e661",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://synsmart-azure-openai-003.openai.azure.com",
+        "key": "38c3c46d6bcd40ff809bdfa0b17bc003",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://hvcodequarry.openai.azure.com",
+        "key": "8946fd734a33456a9edf88ed33211d21",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://gt-dev-us-west.openai.azure.com",
+        "key": "aade92f863f04ce3aed2eb293743b0db",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "GT-gpt4o-US-WEST"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-41-jp-east.openai.azure.com",
+        "key": "5080bfaba7a34e03972d48fdb181465a",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://ai-njonpdaistudiohubeus2637795437656.openai.azure.com",
+        "key": "2293295d97f94bd882e7390552cfc596",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://whisperrr.openai.azure.com",
+        "key": "d434465c93cd426b81e71bc0c08dc8d6",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35"
+            }
+        ]
+    },
+    {
+        "url": "https://hlt-nlp.openai.azure.com",
+        "key": "ca72e43668824cd090e6ea210fe3cd3b",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://healingangels.openai.azure.com",
+        "key": "ed4bec37b4ad4c55936bee64a302350e",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://dietplan.openai.azure.com",
+        "key": "25f39bc49c8b4e259aeba01405e9714a",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-azuretesting.openai.azure.com",
+        "key": "d57bdf8c8fd54d98aea4f20e0a183479",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://hamzaopenai.openai.azure.com",
+        "key": "dd51e19fe6d04f3b937fe53da56b60f1",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://llmdemo.openai.azure.com",
+        "key": "7ae7bffcd56d4ee89f742dcf20b67269",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://ai-azureaiwestusengine881797519629.openai.azure.com",
+        "key": "4d44030e3b2b4f978a44cccc49b464f1",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-2"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://hm-genai.openai.azure.com",
+        "key": "35549f8bf54e4c1ba2bc4890a6da87de",
+        "models": [
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://cog-b3yybe3qy5wiq.openai.azure.com",
+        "key": "4efd5d72a7d9440cbbe6200784207ef0",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            }
+        ]
+    },
+    {
+        "url": "https://atcp-genai-hackathon-002.openai.azure.com",
+        "key": "1445a1639d4c4a0c81fcf99728331bcd",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://azureft.openai.azure.com",
+        "key": "85b968a4b5c84d849c99661788c2c1ed",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://ob-openai-usw.openai.azure.com",
+        "key": "2f2a87a694f64873bc5f1d9af2ddf15b",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt-4-vision"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://readinessreporter.openai.azure.com",
+        "key": "a3acda2a38d948e6b324f20bd3154e0e",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://askauraopenai.openai.azure.com",
+        "key": "43acd730f49d47b494589ffefa5028fa",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://msoais.openai.azure.com",
+        "key": "4fa9cd946ebc42d281ffbd9d1373e893",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35"
+            }
+        ]
+    },
+    {
+        "url": "https://aesopenai.openai.azure.com",
+        "key": "eea6e96919914989a60244c3a74c84f0",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://uiuc-convai.openai.azure.com",
+        "key": "2907ee0316c7484784e43e81092087eb",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt4o-mini"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini-batch"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://interbotapikey.openai.azure.com",
+        "key": "15dc6b3b54fb4b00b9c860104f378122",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://imageanalysis.openai.azure.com",
+        "key": "83660e6c390a4a169bfe98614f8e6873",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://studio-gpt-eastus-2.openai.azure.com",
+        "key": "f6e8ed3787884fdd964801de990907e9",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt4o"
+            }
+        ]
+    },
+    {
+        "url": "https://hv-openai-lab67.openai.azure.com",
+        "key": "dcdb90018c0a4f4c854e4395b499e58b",
+        "models": [
+            {
+                "name": "text-embedding-ada-002",
+                "id": "text-embedding-ada-002"
+            }
+        ]
+    },
+    {
+        "url": "https://adv-datascience-west.openai.azure.com",
+        "key": "d56952cf138e4c09a5f113682ce1b540",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-2"
+            }
+        ]
+    },
+    {
+        "url": "https://oai-prod-eastus-001.openai.azure.com",
+        "key": "7c421dab32794231af5eee7500453042",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o-code-reviewer"
+            }
+        ]
+    },
+    {
+        "url": "https://azure-isv-success-in.openai.azure.com",
+        "key": "7c90d344cb524b9885202a7603641589",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://williamai.openai.azure.com",
+        "key": "c6674722153041a2b9c34c8b7937241d",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://test-jkcompany.openai.azure.com",
+        "key": "5d6d3ee2695943e2b4cf0e6e6e3a49f0",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://tech-ai-ml-class-shima.openai.azure.com",
+        "key": "4fdd3135c3a94d9e920354bec1fa3f7f",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-0613"
+            }
+        ]
+    },
+    {
+        "url": "https://australiaeastaoaitry.openai.azure.com",
+        "key": "55fa016b5edc4fd986383b57156dc612",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4-vision",
+                "id": "gpt-4-vision"
+            },
+            {
+                "name": "gpt-4-32k",
+                "id": "gpt-4-32k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://gpteel.openai.azure.com",
+        "key": "11abcd38b05146fe84a0639993c6dd49",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://curiosity.openai.azure.com",
+        "key": "1caa8932bf794b3b9046446b65130822",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt35turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://eslsca-openai.openai.azure.com",
+        "key": "0d368117945a4cb8a0f5b282dd192340",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4oo"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            }
+        ]
+    },
+    {
+        "url": "https://intern-2024-h2.openai.azure.com",
+        "key": "aa399c19184d4704a059e787e1dd7c79",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-0301"
+            }
+        ]
+    },
+    {
+        "url": "https://barrycallebaut-openai-key1122.openai.azure.com",
+        "key": "a333927fd8b344e1aeee109cebe0f35a",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            }
+        ]
+    },
+    {
+        "url": "https://ds-genai-gpt4o-hackathon.openai.azure.com",
+        "key": "991aaf91f70042f79584ae6a32330c3d",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini-2"
+            }
+        ]
+    },
+    {
+        "url": "https://azureopenaitext.openai.azure.com",
+        "key": "6ad08c8e58dd4de9985b86b1209d9cc2",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://answerai-bilal.openai.azure.com",
+        "key": "523a50ed7a7444468d1ae5a384f032bf",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "gpt-4o-mini"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://ai2team.openai.azure.com",
+        "key": "3d97a348a4a24119ac590d12a4751509",
+        "models": [
+            {
+                "name": "gpt-4o-mini",
+                "id": "ai2team-gpt4omini"
+            },
+            {
+                "name": "gpt-4o-mini",
+                "id": "aiteam-gpt4omini-standard"
+            }
+        ]
+    },
+    {
+        "url": "https://alldemo-openai.openai.azure.com",
+        "key": "5d0c9b16e7e14333918d2b4e61b36216",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "demo-gpt-35-turbo-16k"
+            }
+        ]
+    },
+    {
+        "url": "https://fhcopilot.openai.azure.com",
+        "key": "1130d99fb30545d8957a9fa8bf91c0c7",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://openai-nextflow.openai.azure.com",
+        "key": "98db6ffc7e3447678d4ee3ba4ec3d45a",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://internaoai.openai.azure.com",
+        "key": "c8693a49f46f425ca226498c216ab4a7",
+        "models": [
+            {
+                "name": "text-embedding-ada-002",
+                "id": "text-embedding-ada-002"
+            }
+        ]
+    },
+    {
+        "url": "https://baking-yummy.openai.azure.com",
+        "key": "5f7846f0daba4259abc28c62a727de1f",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://buv-chatbot.openai.azure.com",
+        "key": "f19bcab8b66f421a834731e89ba023f0",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://gen-ai-demo.openai.azure.com",
+        "key": "f39237474a6546c8ad3f14d3931ff7d7",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "open-ai-gpt35"
+            }
+        ]
+    },
+    {
+        "url": "https://rtappopenai.openai.azure.com",
+        "key": "0eb4ce717f404f66b70f809817ebd172",
+        "models": [
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo-16k"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    },
+    {
+        "url": "https://tv-llm-applications.openai.azure.com",
+        "key": "e63ed695495543d58595fab4e27e4ff1",
+        "models": [
+            {
+                "name": "gpt-4o",
+                "id": "gpt-4o"
+            }
+        ]
+    },
+    {
+        "url": "https://azure-openai-miz.openai.azure.com",
+        "key": "1c9f01e1a3834dc3aefe10e040322626",
+        "models": [
+            {
+                "name": "gpt-4",
+                "id": "gpt-4"
+            },
+            {
+                "name": "gpt-4",
+                "id": "gpt-4-2"
+            },
+            {
+                "name": "gpt-3.5-turbo",
+                "id": "gpt-35-turbo"
+            }
+        ]
+    }
+]
